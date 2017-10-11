@@ -1,10 +1,10 @@
 body{
   font-size: 20px;
-  background:grey;
+  background:#ddd;
 
 }
 header{
-  background: grey;
+  background: #ddd;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -51,7 +51,7 @@ img{
 
 }
 .recipeBox{
-  border: 2px solid orange;
+  border: 2px solid; color:blue;
   width: 23.5%;
   height:50%;
   margin:10px;
