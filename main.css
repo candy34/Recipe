@@ -3,7 +3,7 @@ body{
   background:#ddd;
 
 }
-header{
+head{
   background: #ddd;
   display: flex;
   flex-direction: row;
